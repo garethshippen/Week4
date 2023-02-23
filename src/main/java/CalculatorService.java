@@ -92,7 +92,7 @@ public class CalculatorService extends Thread
 
             //Attend the request
             boolean tmp = this.attendRequest();
-
+            //TODO You stopped here.
             //Send back the outcome of the request
             if(!tmp)
             {
